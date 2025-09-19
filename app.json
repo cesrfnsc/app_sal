@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "SAL",
+    "slug": "sal",
+    "version": "1.0.0",
+    "sdkVersion": "54.0.0",
+    "orientation": "portrait",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "permissions": []
+    },
+    "web": {}
+  }
+}
